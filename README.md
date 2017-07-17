@@ -1,9 +1,13 @@
-# Live-Stock-Market-Simulator
+# The Live Stock Market Simulator
 
 ## Summary
 
+## GUI
+
+![Stock Game Image](https://i.imgur.com/9WU2rhb.jpg "The Live Stock Market Simulator")
+
 ### Description
-A lightweight java application that gives users $100,000 and allows them to buy and short stocks. A user is able to analyze a ticker directly from the app through a screener that displays a graph and other informative data. All data is pulled live from the stock market to ensure that the experience is as realistic as possible.
+A lightweight java application that gives users $100,000 when the register. Users can populate their portfolio through purchasing and shorting stocks. A user is able to get a quote and analyze a ticker directly from the app through a screener that displays a graph and other informative data (moving averages, . All data is pulled live from the stock market to ensure that the experience is as realistic as possible.
 
 ### APIs
 This application makes use of the (deprecated but functioning) Google Finance API
