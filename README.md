@@ -1,4 +1,5 @@
 # The Live Stock Market Simulator
+Made in partnership with **Stiven Peter**.
 
 ## Summary
 
@@ -11,9 +12,6 @@ A lightweight java application that gives users $100,000 when the register. User
 
 ### APIs
 This application makes use of the (deprecated but functioning) Google Finance API
-
-### Collaborators
-This was made in partnership with Stiven Peter.
 
 ## Usage
 
