@@ -8,7 +8,7 @@ Made in partnership with **Stiven Peter**.
 ![Stock Game Image](https://i.imgur.com/9WU2rhb.jpg "The Live Stock Market Simulator")
 
 ### Description
-A lightweight java application that gives users $100,000 when the register. Users can populate their portfolio through purchasing and shorting stocks. A user is able to get a quote and analyze a ticker directly from the app through a screener that displays a graph and other informative data (moving averages, . All data is pulled live from the stock market to ensure that the experience is as realistic as possible.
+A lightweight java application that allows users to partcipate in the stock market using simulated money.  Upon registering, users recieve $100,000 to trade. Users can populate their portfolio through purchasing and shorting stocks. A user is able to get a quote and analyze a ticker directly from the app through a screener that displays a graph and other informative data (high, low, moving averages, etc.). All data is pulled **live** from the stock market to ensure that the experience is as realistic as possible.
 
 ### APIs
 This application makes use of the (deprecated but functioning) Google Finance API
